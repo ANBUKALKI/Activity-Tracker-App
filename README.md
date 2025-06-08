@@ -1,9 +1,9 @@
 # Activity Tracker App
 
-##A Flutter application that tracks user interactions (scrolls, taps, call logs) using Android Accessibility Services and stores data in Firebase Firestore.
+## A Flutter application that tracks user interactions (scrolls, taps, call logs) using Android Accessibility Services and stores data in Firebase Firestore.
 
-#Features
-##User Authentication:
+# Features
+## User Authentication:
 
 Email/password login
 
@@ -11,7 +11,7 @@ Google Sign-In
 
 Password reset functionality
 
-##Accessibility Integration:
+## Accessibility Integration:
 
 Tracks scroll events
 
@@ -19,13 +19,13 @@ Counts tap interactions
 
 Requires user permission
 
-##Call Log Tracking:
+## Call Log Tracking:
 
 Records incoming, outgoing, and missed calls
 
 Requires call log permission
 
-##Firebase Integration:
+## Firebase Integration:
 
 Real-time data storage
 
@@ -33,7 +33,7 @@ User-specific data collection
 
 Secure data structure
 
-##Dashboard:
+## Dashboard:
 
 Displays interaction statistics
 
@@ -41,9 +41,9 @@ Shows call log history
 
 Real-time updates
 
-#Screen Shots
+# Screen Shots
 
-###--------------------------------------------------------
+### --------------------------------------------------------
 
 
 ## Getting Started
