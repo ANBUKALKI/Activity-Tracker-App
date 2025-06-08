@@ -52,12 +52,10 @@ Real-time updates
 ### PermissionsScreen
 <img src="https://github.com/user-attachments/assets/998c8ad2-20ec-450a-a776-94268e36d630" alt="Alt Text" style="width:20%; height:auto;">
 
-![Dashboard screen](https://github.com/user-attachments/assets/97778064-face-4751-9b46-96a190d96121)
-
 ### DashboardScreen
 <img src="https://github.com/user-attachments/assets/97778064-face-4751-9b46-96a190d96121" alt="Alt Text" style="width:20%; height:auto;">
 
-### --------------------------------------------------------
+### ---------------------------------------------------------------------------
 
 
 ## Getting Started
