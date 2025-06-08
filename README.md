@@ -43,6 +43,20 @@ Real-time updates
 
 # Screen Shots
 
+### SplashScreen
+<img src="https://github.com/user-attachments/assets/6dc33920-f724-45f9-9618-6cae75f73da4" alt="Alt Text" style="width:20%; height:auto;">
+
+### LoginScreen
+<img src="https://github.com/user-attachments/assets/db6b9f55-78cc-43d8-8118-3a5765e1355a" alt="Alt Text" style="width:20%; height:auto;">
+
+### PermissionsScreen
+<img src="https://github.com/user-attachments/assets/998c8ad2-20ec-450a-a776-94268e36d630" alt="Alt Text" style="width:20%; height:auto;">
+
+![Dashboard screen](https://github.com/user-attachments/assets/97778064-face-4751-9b46-96a190d96121)
+
+### DashboardScreen
+<img src="https://github.com/user-attachments/assets/97778064-face-4751-9b46-96a190d96121" alt="Alt Text" style="width:20%; height:auto;">
+
 ### --------------------------------------------------------
 
 
